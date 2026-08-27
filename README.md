@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student developer exploring AI, computer vision, and voice-based automation through real-world projects.<br><br>🌍 I'm based in India<br>🖥️ See my portfolio at Gusain Network: gusainlabs.indevs.in<br>✉️ You can contact me at tech.aditya011@protonmail.me<br>🧠 I'm currently learning Advanced Python Concepts and Livekit<br>👥 I'm looking to collaborate on AI related projects
+Student developer exploring AI, computer vision, and voice-based automation through real-world projects.<br><br>🌍 I'm based in India<br>🖥️ See my portfolio at Gusain Network: https://gusainlabs.indevs.in<br>✉️ You can contact me at tech.aditya011@protonmail.me<br>🧠 I'm currently learning Advanced Python Concepts and Livekit<br>👥 I'm looking to collaborate on AI related projects
 
 
 ## 🌐 Socials:
